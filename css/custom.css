@@ -1,0 +1,44 @@
+body {
+    background-color: #fff;
+}
+
+#home .h-content {
+    color: #000;
+}
+
+.social_tab p {
+    color: #000;
+}
+
+.btn-nb {
+    color: #000;
+}
+
+.btn-nb:hover:hover {
+    color: #999;
+}
+
+.social_tab .social_icons li i {
+    color: #000;
+}
+
+#leftSide.color {
+    background-color: #fff;
+}
+
+.main-logo {
+    max-width: 245px;
+}
+
+.btn-solid, .btn-solid-dark {
+    background: #53bdda;
+    border-color: #53bdda;
+}
+
+.btn-solid:focus, .btn-solid-dark:focus {
+    background: #53bdda;
+}
+
+.btn-solid:hover, .btn-solid-dark:hover {
+    background: #2c8ea9;
+}
